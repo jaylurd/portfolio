@@ -86,18 +86,6 @@ const themes = {
         audio: 'themes/default/Wizkid-Slow-(HitDownloadz.com) (4).mp3',
         cover: 'themes/default/song-cover.webp',
         title: 'Wizkid - Slow'
-    },
-    chill: {
-        video: 'themes/chill/chill-bg.mp4',      
-        audio: 'themes/chill/chill-song.mp3',    
-        cover: 'themes/chill/chill-cover.webp',   
-        title: 'Low Cortisol'
-    },
-    cyberpunk: {
-        video: 'themes/placeholder/cyber-bg.mp4',      
-        audio: 'themes/placeholder/cyber-song.mp3',    
-        cover: 'themes/placeholder/cyber-cover.jpg',   
-        title: 'Neon Nights'
     }
 };
 
