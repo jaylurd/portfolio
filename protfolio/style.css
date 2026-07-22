@@ -102,9 +102,12 @@ body, html {
 }
 
 .role {
-    font-size: 0.9rem;
-    color: #aaaaaa;
-    margin-top: 4px;
+    font-size: 0.92rem;
+    font-weight: 500;
+    color: #f1f5f9;
+    letter-spacing: 0.6px;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+    margin-top: 6px;
     margin-bottom: 20px;
 }
 
